@@ -16,13 +16,13 @@ Students, remote workers, freelancers, and local coffee lovers.
 Create a polished landing page that encourages visitors to view the menu and visit the shop.
 
 ## Brand
-Warm, modern, welcoming, and slightly premium.
+Warm, modern, welcoming, slightly premium, and playful.
 
 ## Visual Direction
-Inspired by the supplied reference: deep green, warm cream, and bright yellow; oversized editorial typography; circular coffee imagery; bold bands; strong spacing; playful stamps; modern responsive layout. Use the reference for visual direction only, not direct copying.
+Editorial coffee culture with expressive motion. Deep forest green, warm cream, golden yellow, coral, sage, and plum accents. Oversized typography, circular coffee imagery, bold color bands, organic shapes, strong spacing, and playful graphic stamps. The supplied reference is inspiration only, not a direct copy.
 
 ## Page Structure
-Header, hero, menu highlights, story/about, visit details, regulars' favorites, final CTA, footer.
+Header, animated hero, menu highlights, house blend feature band, story/about, roast guide, visit details, regulars' favorites, final CTA, footer.
 
 ## Copy Direction
 Direct, specific, conversational coffee-shop copy. Avoid generic AI marketing language, filler, excessive adverbs, vague claims, and em dashes.
@@ -31,10 +31,10 @@ Direct, specific, conversational coffee-shop copy. Avoid generic AI marketing la
 Remote Unsplash coffee and café images are used as visual placeholders. No local asset folder.
 
 ## Functionality
-Responsive navigation with a mobile menu, smooth in-page navigation, menu and visit CTAs, and a mailto contact action. No backend, login, booking system, database, or build system.
+Responsive navigation with a mobile menu, smooth in-page navigation, menu and visit CTAs, mailto contact action, continuous ticker animation, hover interactions, hero entrance animation, staggered content reveals, and scroll-triggered section reveals. No backend, login, booking system, database, or build system.
 
 ## Avoid
 Generic coffee-bean backgrounds, excessive brown/beige, cliché marketing copy, unnecessary complexity, React, Tailwind, npm, build tooling, branches, pull requests, and vercel.json.
 
 ## Current Decisions
-The first build uses the Morrow Coffee House fictional concept. Primary CTA is View the Menu. Secondary CTA is Visit Us. The site remains a single self-contained index.html with CSS and minimal JavaScript embedded in the page.
+The site remains a single self-contained `index.html` with CSS and minimal JavaScript embedded in the page. Primary CTA is View the Menu. Secondary CTA is Visit Us. The design was upgraded with a broader color palette and a substantial but lightweight animation system, while preserving responsive performance and reduced-motion accessibility.
