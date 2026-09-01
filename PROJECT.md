@@ -4,10 +4,10 @@
 https://github.com/magpantayjherwin-web/jherwincoffeelandingpage
 
 ## Deployment
-Not deployed yet.
+GitHub Pages configured from `main` branch.
 
 ## Product
-Morrow Coffee House, a fictional neighborhood coffee shop landing page.
+Jherwin Coffee House, a fictional neighborhood coffee shop landing page.
 
 ## Audience
 Students, remote workers, freelancers, and local coffee lovers.
@@ -25,7 +25,7 @@ Editorial coffee culture with expressive motion. Deep forest green, warm cream, 
 Header, animated hero, menu highlights, house blend feature band, story/about, roast guide, visit details, regulars' favorites, final CTA, footer.
 
 ## Copy Direction
-Direct, specific, conversational coffee-shop copy. Avoid generic AI marketing language, filler, excessive adverbs, vague claims, and em dashes.
+Direct, specific, conversational coffee-shop copy. Avoid generic AI marketing language, filler, excessive adverbs, and vague claims.
 
 ## Assets
 Remote Unsplash coffee and café images are used as visual placeholders. No local asset folder.
@@ -37,4 +37,4 @@ Responsive navigation with a mobile menu, smooth in-page navigation, menu and vi
 Generic coffee-bean backgrounds, excessive brown/beige, cliché marketing copy, unnecessary complexity, React, Tailwind, npm, build tooling, branches, pull requests, and vercel.json.
 
 ## Current Decisions
-The site remains a single self-contained `index.html` with CSS and minimal JavaScript embedded in the page. Primary CTA is View the Menu. Secondary CTA is Visit Us. The design was upgraded with a broader color palette and a substantial but lightweight animation system, while preserving responsive performance and reduced-motion accessibility.
+The site remains a single self-contained `index.html` with CSS and minimal JavaScript embedded in the page. The brand name is Jherwin Coffee House. Primary CTA is View the Menu. Secondary CTA is Visit Us. The design uses a broader color palette and a substantial but lightweight animation system, while preserving responsive performance and reduced-motion accessibility.
